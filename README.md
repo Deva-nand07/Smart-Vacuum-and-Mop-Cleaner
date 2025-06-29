@@ -4,3 +4,5 @@ It created using Scrap(2L Soft drink bottle, a peice of Plywood, Plastic jar Cap
 It is based upuon Obstacle avoiding car, I have just modified it little bit for Vacuum Cleaner.
 Components used in it are 2 Ultra sonic sensors, 1 Ardiuno UNO, 6 3V gear motors, 1 12V DC Motor, 3 Switches, 3 3.7V Lithum ion battries, 1 L293D DC Motor Drive Shield.
 
+Circuit Diagram link:- CirKit designer IDE
+https://app.cirkitdesigner.com/project/7f9d13cf-3d5c-413a-87e2-cd2bb8dba7af
